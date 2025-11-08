@@ -1,0 +1,6 @@
+garak LLM vulnerability scanner v0.13.1 ( https://github.com/NVIDIA/garak ) at 2025-11-08T12:00:26.640392
+📜 logging to C:\Users\Leslie\.local\share\garak\garak.log
+🦜 loading [1m[95mgenerator[0m: Hugging Face 🤗 pipeline: microsoft/DialoGPT-medium
+📜 reporting to C:\Users\Leslie\.local\share\garak\garak_runs\garak.60f76d6f-65a8-4007-be7b-74e7d41b7ccc.report.jsonl
+🕵️  queue of [1m[93mprobes:[0m promptinject.HijackHateHumans, promptinject.HijackKillHumans, promptinject.HijackLongPrompt
+User cancel received, terminating all runs
